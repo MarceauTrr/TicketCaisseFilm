@@ -1,0 +1,34 @@
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.Form1.resources
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.exe
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.deps.json
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.runtimeconfig.json
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.dll
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.pdb
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.dll
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\refint\LogicielCaisseCine.dll
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.pdb
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\ref\LogicielCaisseCine.dll
+C:\Users\Administrateur\Desktop\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\Logiciel.E81A8ED0.Up2Date
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.exe
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.deps.json
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.runtimeconfig.json
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.dll
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\bin\Debug\net10.0-windows\LogicielCaisseCine.pdb
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.Form1.resources
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.csproj.GenerateResource.cache
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.GeneratedMSBuildEditorConfig.editorconfig
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.AssemblyInfoInputs.cache
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.AssemblyInfo.cs
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.csproj.CoreCompileInputs.cache
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.dll
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\refint\LogicielCaisseCine.dll
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.pdb
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\LogicielCaisseCine.genruntimeconfig.cache
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\ref\LogicielCaisseCine.dll
+\\tlpu118-ppfs\ELEVES\marceau.tourier\2ème année\LogicielCaisseCine\LogicielCaisseCine\obj\Debug\net10.0-windows\Logiciel.E81A8ED0.Up2Date
